@@ -1319,7 +1319,7 @@ Main Banner Area CSS
 
 .main-banner-shape .shape-3 {
   position: absolute;
-  bottom: 100px;
+  bottom: 70px;
   left: 30px;
   z-index: 1;
   max-width: 100px;
@@ -6495,5 +6495,8 @@ Go Top CSS
 }
 .main-navbar-sedi{
     max-width: 1450px;
+}
+.nav-back{
+    background-color: white;
 }
 /*# sourceMappingURL=style.css.map */

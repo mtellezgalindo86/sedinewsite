@@ -23,7 +23,7 @@
                                 Estimular la confianza
                             </li>
                             <li>
-                                Mejorar su autoestima
+                                Mejorar la autoestima
                             </li>
                             <li>
                                 Aumentar la felicidad
@@ -50,7 +50,7 @@
                     </p>
                     <br>
                     <p class="text-blue-sedi">
-                        Este enfoque no tiene nada que ver con estar siempre sonriendo; se base en la Psicología Positiva, que es el estudio científico del funcionamiento
+                        Este enfoque no tiene nada que ver con estar siempre sonriendo; se basa en la Psicología Positiva, que es el estudio científico del funcionamiento
                         óptimo del ser humano y su misión es tratar de descubrir y promover aquellos factores que permiten prosperar,
                         tanto a los individuos como a las sociedades, ya que está comprobado que las personas que experimentan más emociones positivas tienen:
                         <ul class="text-blue-sedi">

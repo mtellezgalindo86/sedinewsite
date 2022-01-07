@@ -8,7 +8,7 @@
                         <div class="col-lg-6">
                             <div class="main-banner-content">
                                 <h1><label class="newtitle">SEDI, Comunidad Educativa</label></h1>
-                                <p class="text-blue-sedi">SEDI es el Centro Educativo para la Primera Infancia, líder en la zona Poniente de la Ciudad de México,con dos sedes: en Santa Fe y Lomas de Chapultepec.
+                                <p class="text-blue-sedi">SEDI es el Centro Educativo para la Primera Infancia, líder en la zona Poniente de la Ciudad de México, con dos sedes: en Santa Fe y Lomas de Chapultepec.
                                    Atendemos niños durante todo el año, desde 42 días de nacidos hasta 6 años de edad, de 7:00 am a 7:45 pm y a niños de cualquier edad y hasta los 9 años,
                                    a partir de las 12:30 pm y hasta las 7:45 pm, en un servicio de Afterschool. </p>
                                    <br>
