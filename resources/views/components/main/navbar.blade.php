@@ -98,6 +98,11 @@
                                         Inteligencia emocional
                                     </a>
                                 </li>
+                                <li class="nav-item">
+                                    <a href="{{route('perfil-de-egresado')}}" class="nav-link">
+                                        Perfil de egresado
+                                    </a>
+                                </li>
                             </ul>
                         </li>
 

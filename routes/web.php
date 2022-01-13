@@ -31,6 +31,7 @@ Route::get('/educacion-en-valores', 'ModeloEducativoController@educacionenvalore
 Route::get('/disciplina-personal', 'ModeloEducativoController@disciplinapersonal')->name('disciplina-personal');
 Route::get('/inteligencia-emocional', 'ModeloEducativoController@inteligenciaemocional')->name('inteligencia-emocional');
 
+Route::get('/perfil-de-egresado', 'ModeloEducativoController@perfilEgresado')->name('perfil-de-egresado');
 //Programas
 Route::get('/programas-de-desarollo-y-cuidado-infantil-guarderia-kinder', 'ProgramasController@programasdesarrollo')->name('programas-de-desarollo-y-cuidado-infantil-guarderia-kinder');
 Route::get('/after-school', 'ProgramasController@afterschool')->name('after-school');

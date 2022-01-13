@@ -9,7 +9,7 @@
                     </p>
                     <br>
                     <p class="text-justify text-blue-sedi">
-                        Desde siempre, los niños pasan un filtro diario de salud al ingresar a SEDI que tiene como objetivo intercambiar información con los padres o adultos responsables
+                        Así, los padres de familia pueden ver las actividades de sus hijos en diversos espacios de SEDI, en vivo y en directo, durante toda su estancia con nosotros.
                     </p>
                     <p class="text-justify text-blue-sedi">
                         Con este servicio se refuerzan dos de los aspectos fundamentales de nuestra filosofía:

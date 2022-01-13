@@ -47,7 +47,7 @@
                         </li>
                         <li>
                             <span>2</span>
-                            Educación preescolar con reconocimiento oficial
+                            Educación Preescolar/Kínder
                         </li>
                         <li>
                             <span>3</span>

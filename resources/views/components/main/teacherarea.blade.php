@@ -52,11 +52,11 @@
             <div class="col-lg-2 col-md-6">
                 <div class="single-teacher">
                     <div class="image">
-                        <a href=""><img src="{{'assets/img/perfildeegresado.jpg'}}" alt="image"></a>
+                        <a href="{{route('perfil-de-egresado')}}"><img src="{{'assets/img/perfildeegresado.jpg'}}" alt="image"></a>
                     </div>
 
                     <div class="content">
-                        <a href=""> <h3>Perfil de egresado</h3></a>
+                        <a href="{{route('perfil-de-egresado')}}"> <h3>Perfil de egresado</h3></a>
                     </div>
                 </div>
             </div>

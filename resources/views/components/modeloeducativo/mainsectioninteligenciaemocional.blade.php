@@ -14,7 +14,7 @@
                     </p>
                     <br>
                     <p class="text-justify text-blue-sedi">
-                        La primera infancia es el momento en que mejor se adquieren los aprendizajes, y el manejo de las emociones es un aprendizaje fundamental.
+                        La primera infancia es el momento en que mejor se adquieren los aprendizajes y, el manejo de las emociones, es un aprendizaje fundamental.
                     </p>
                     <br>
                     <p class="text-justify text-blue-sedi">

@@ -31,7 +31,7 @@
 
             <div class="col-lg-6">
                 <div class="who-we-are-image-wrap">
-                    <video src="{{'assets/video/Convenios.mp4'}}" width="80%" controls autoplay="true" ></video>
+                    <video src="{{'assets/video/Convenios.mp4'}}" width="80%" controls autoplay="true" loop="true"></video>
                 </div>
             </div>
         </div>

@@ -18,7 +18,7 @@
                         habilidades sociales, un adecuado reconocimiento y manejo de sus emociones, sentando las bases para el desarrollo cognitivo exitoso.
                     </p>
                     <br>
-                    <h4><label class="newtitle">Educación Preescolar con reconocimiento oficial: </label></h4>
+                    <h4><label class="newtitle">Educación Preescolar/Kinder con reconocimiento oficial: </label></h4>
                     <p class="text-justify text-blue-sedi">
                         Para niños de 3 a 6 años de edad.
                     </p>
@@ -30,8 +30,9 @@
                     </p>
                     <br>
                     <p class="text-justify text-blue-sedi">
-                        Como servicio complementario, los niños de Preescolar tienen la opción de tomar talleres optativos por las tardes y, en todos los niveles,
-                        los alumnos tienen clases especiales adicionales (música, computación, inglés).
+                        Como servicio complementario, los niños de Preescolar tienen la opción de tomar talleres optativos por las tardes (Ver Aftershool) y,
+                        en todos los niveles, los alumnos tienen clases especiales adicionales como Música y Computación, así como los talleres básicos
+                        de: Actívate, Baile Coreográfico, Habilidades del Pensamiento, Cocina y Manualidades.
                     </p>
                 </div>
             </div>
