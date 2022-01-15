@@ -21,17 +21,13 @@ class VideotecaController extends Controller
         Youtube::setApiKey($API_key);
         $videoList = Youtube::listChannelVideos($channelID, $maxResults);
         $errors = [];
-        Videoteca::truncate();
-
         foreach($videoList as $key => $video){
-            $videoteca = new Videoteca;
-            $videoteca->idvideo = $video->id->videoId;
-            $videoteca->title = $video->snippet->title;
-            $videoteca->description = $video->snippet->description;
-            $videoteca->save();
+            $errors[$key]['idvideo'] = $video->id->videoId;
+            $errors[$key]['title'] = $video->snippet->title;
+            $errors[$key]['description'] = $video->snippet->description;
         }
-        $videos = Videoteca::all();
-        return view('videoteca.videoteca')->with("videos",$videos);
+
+        return view('videoteca.videoteca')->with("videos",$errors);
     }
 }
 
