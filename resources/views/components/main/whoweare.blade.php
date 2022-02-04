@@ -24,7 +24,7 @@
                                 </li>
                                 <li>
                                     <i class='bx bx-check'></i>
-                                    Servicio de guardería y kínder para niños de 1 a 5 años
+                                    Servicio de guardería y kínder para niños de 1 a 6 años
                                     <ul class="requirements-list">
                                         <li>
                                             <i class='bx bx-check'></i>

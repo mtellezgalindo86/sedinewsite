@@ -32,7 +32,7 @@
                         <ul class="text-blue-sedi">
                             <li>
                                 La <strong>Disciplina Positiva</strong>, que es una metodología planteada por las psicólogas Jane Nelsen y Lynn Lott,
-                                sustentada en la filosofía de los doctores Alfred Adler y el Rudolf Dreikurs. A través de su implementación,
+                                sustentada en la filosofía de los doctores Alfred Adler y  Rudolf Dreikurs. A través de su implementación,
                                 enseña a los niños a ser responsables, respetuosos y auto-disciplinados dentro de su comunidad.
                                 <strong>Este tipo de disciplina es fundamental para guiar la conducta de los niños de una manera respetuosa y firme,
                                 basada en el establecimiento de límites claros y consistentes.</strong> Además, se les presentan a los niños

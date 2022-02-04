@@ -50,7 +50,9 @@ Route::get('/convenios-con-empresas', 'ConveniosAlianzasController@convenios')->
 Route::get('/alianzas-con-instituciones-educativas', 'ConveniosAlianzasController@alianzas')->name('alianzas-con-instituciones-educativas');
 
 //Blog
-Route::get('/blog', function ($id) {});
+Route::get('/blog','BlogController@index')->name('blog');
+
+Route::get('/blog-detail','BlogController@detail')->name('blog-detail');
 
 
 //Videoteca

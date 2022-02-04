@@ -3,7 +3,7 @@
         <div class="container">
             <div class="main-responsive-menu">
                 <div class="logo">
-                    <a href="index.html">
+                    <a href="{{route("home")}}">
                         <img src="{{'assets/img/sedi.png'}}" alt="image">
                     </a>
                 </div>
@@ -200,7 +200,7 @@
 
 
                         <li class="nav-item">
-                            <a href="#" class="nav-link">
+                            <a href="{{route('blog')}}" class="nav-link">
                                 Blog
                             </a>
                         </li>
@@ -219,7 +219,7 @@
 
                     <div class="others-options d-flex align-items-center">
                         <div class="option-item">
-                            <a href="{{route('contacto')}}" class="default-btn">CONTACTANOS</a>
+                            <a href="{{route('contacto')}}" class="default-btn">CONTACTÁNOS</a>
                         </div>
                     </div>
                 </div>
@@ -240,39 +240,10 @@
             <div class="container">
                 <div class="option-inner">
                     <div class="others-options d-flex align-items-center">
-                        <div class="option-item">
-                            <div class="dropdown language-switcher d-inline-block">
-                                <button class="dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                    <span>Language <i class='bx bx-chevron-down'></i></span>
-                                </button>
 
-                                <div class="dropdown-menu">
-                                    <a href="#" class="dropdown-item d-flex align-items-center">
-                                        <img src="assets/img/english.png" class="shadow-sm" alt="flag">
-                                        <span>English</span>
-                                    </a>
-                                    <a href="#" class="dropdown-item d-flex align-items-center">
-                                        <img src="assets/img/arab.png" class="shadow-sm" alt="flag">
-                                        <span>العربيّة</span>
-                                    </a>
-                                    <a href="#" class="dropdown-item d-flex align-items-center">
-                                        <img src="assets/img/germany.png" class="shadow-sm" alt="flag">
-                                        <span>Deutsch</span>
-                                    </a>
-                                    <a href="#" class="dropdown-item d-flex align-items-center">
-                                        <img src="assets/img/portugal.png" class="shadow-sm" alt="flag">
-                                        <span>Português</span>
-                                    </a>
-                                    <a href="#" class="dropdown-item d-flex align-items-center">
-                                        <img src="assets/img/china.png" class="shadow-sm" alt="flag">
-                                        <span>简体中文</span>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
 
                         <div class="option-item">
-                            <a href="#" class="default-btn">Contact Us</a>
+                            <a href="{{route('contacto')}}" class="default-btn">CONTACTÁNOS</a>
                         </div>
                     </div>
                 </div>

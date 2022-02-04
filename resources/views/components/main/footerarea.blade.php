@@ -45,12 +45,12 @@
                     <ul class="footer-contact-info">
                         <li>
                             <i class='bx bxs-phone'></i>
-                            <span>Telefono</span>
+                            <span>Teléfono</span>
                             <a href="tel:+525555202788">55 55-20-27-88</a>
                         </li>
                         <li>
                             <i class='bx bxs-phone'></i>
-                            <span>Telefono</span>
+                            <span>Teléfono</span>
                             <a href="tel:+525552029647">55 52-02-96-47</a></li>
                         </li>
                         <li>
@@ -60,8 +60,8 @@
                         </li>
                         <li>
                             <i class='bx bx-map'></i>
-                            <span>Direccion</span>
-                            Explanada No. 305,<br> Col. Lomas de Chapultepec,<br> Delegación Miguel Hidalgo,<br> CP 11000, CDMX.
+                            <span>Dirección</span>
+                            Explanada No. 305,<br> Col. Lomas de Chapultepec,<br> Alcaldía Miguel Hidalgo,<br> CP 11000, CDMX.
                         </li>
                     </ul>
                 </div>
@@ -74,12 +74,12 @@
                     <ul class="footer-contact-info">
                         <li>
                             <i class='bx bxs-phone'></i>
-                            <span>Telefono</span>
+                            <span>Teléfono</span>
                             <a href="tel:+525552923596">55 52-92-35-96</a>
                         </li>
                         <li>
                             <i class='bx bxs-phone'></i>
-                            <span>Telefono</span>
+                            <span>Teléfono</span>
                             <a href="tel:+525552923895">55 52-92-38-95</a>
                         </li>
                         <li>
@@ -89,11 +89,11 @@
                         </li>
                         <li>
                             <i class='bx bx-map'></i>
-                            <span>Direccion</span>
+                            <span>Dirección</span>
                             Circuito Guillermo González <br>
                             Camarena No. 1000-002(PB)<br>
                             Col. Centro de Ciudad Santa Fe<br>
-                            Delegación Álvaro Obregón<br>
+                            Alcaldía Álvaro Obregón<br>
                             CP 01210, CDMX.</span></li>
                         </li>
                     </ul>

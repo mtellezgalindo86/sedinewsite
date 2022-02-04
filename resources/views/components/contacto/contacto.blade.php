@@ -55,7 +55,7 @@
 
                     <ul class="contact-list text-blue-sedi">
 
-                        <li><i class='bx bx-map'></i> Lugar: <span>Explanada No. 305,<br> Col. Lomas de Chapultepec,<br> Delegación Miguel Hidalgo,<br> CP 11000, CDMX.</span></li>
+                        <li><i class='bx bx-map'></i> Lugar: <span>Explanada No. 305,<br> Col. Lomas de Chapultepec,<br> Alcaldía Miguel Hidalgo,<br> CP 11000, CDMX.</span></li>
                         <li><i class='bx bx-phone-call'></i> Llamar: <a href="tel:+525555202788">55-20-27-88</a></li>
                         <li><i class='bx bx-phone-call'></i> Llamar: <a href="tel:+525552029647">52-02-96-47</a></li>
                         <li><i class='bx bx-envelope'></i> Nuestro correo: <a href="mailto:contacto@sedi.edu.mx">contacto@sedi.edu.mx</a></li>
@@ -70,7 +70,7 @@
                         <li><i class='bx bx-map'></i> Lugar: <span>Circuito Guillermo González <br>
                             Camarena No. 1000-002(PB)<br>
                             Col. Centro de Ciudad Santa Fe<br>
-                            Delegación Álvaro Obregón<br>
+                            Alcaldía Álvaro Obregón<br>
                             CP 01210, CDMX.</span></li>
                         <li><i class='bx bx-phone-call'></i> Llamar: <a href="tel:+525552923596">52-92-35-96</a></li>
                         <li><i class='bx bx-phone-call'></i> Llamar: <a href="tel:+525552923895"> 52-92-38-95</a></li>

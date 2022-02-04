@@ -18,7 +18,7 @@
                         <h3>
                             <a href="#">Misión</a>
                         </h3>
-                        <p >En SEDI estamos dedicados a promover el bienestar, impulsar el desarrollo integral.</p>
+                        <p >En SEDI estamos dedicados a promover el bienestar, impulsar el desarrollo integral...</p>
                         <div class="class-btn">
                             <a href="{{route('mision')}}" class="default-btn">Ver mas</a>
                         </div>
