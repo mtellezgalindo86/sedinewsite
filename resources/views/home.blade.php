@@ -2,25 +2,22 @@
 
 @section('content')
 <div class="container">
+    
     <div class="row justify-content-center">
-        <div class="col-md-8">
-            <div class="card">
-                <div class="card-header">{{ __('Dashboard') }}</div>
-                <div class="card-body">
-                    @if (session('status'))
-                        <div class="alert alert-success" role="alert">
-                            {{ session('status') }}
-                        </div>
-                    @endif
-                    <table>
-                        <tr>
-                            <th>Nombre</th>
-                            <th>Email</th>
-                            <th>Teléfono</th>
-                            <th>Mensaje</th>
-                            <th>Estatus</th>
-                            <th>¿Contactado?</th>
-                        </tr>
+        <div class="timetable-area ptb-100">
+            <div class="container">
+                <div class="timetable table-responsive">
+                    <table class="table table-bordered">
+                        <thead>
+                            <tr>
+                                <th>Nombre</th>
+                                <th>Email</th>
+                                <th>Teléfono</th>
+                                <th>Mensaje</th>
+                                <th>Estatus</th>
+                                <th>¿Contactado?</th>
+                            </tr>
+                        </thead>
                         <tbody>
                             @foreach ($contacts as $contact)
                             <tr>

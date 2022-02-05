@@ -8,7 +8,28 @@
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
     <title>{{ config('app.name', 'Laravel') }}</title>
-
+        <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="{{'assets/css/bootstrap.min.css'}}">
+    <!-- Animate CSS -->
+    <link rel="stylesheet" href="{{'assets/css/animate.min.css'}}">
+    <!-- Meanmenu CSS -->
+    <link rel="stylesheet" href="{{'assets/css/meanmenu.css'}}">
+    <!-- Boxicons CSS -->
+    <link rel="stylesheet" href="{{'assets/css/boxicons.min.css'}}">
+    <!-- Owl Carousel CSS -->
+    <link rel="stylesheet" href="{{'assets/css/owl.carousel.min.css'}}">
+    <!-- Owl Carousel Default CSS -->
+    <link rel="stylesheet" href="{{'assets/css/owl.theme.default.min.css'}}">
+    <!-- Odometer CSS -->
+    <link rel="stylesheet" href="{{'assets/css/odometer.min.css'}}">
+    <!-- Magnific Popup CSS -->
+    <link rel="stylesheet" href="{{'assets/css/magnific-popup.min.css'}}">
+    <!-- Imagelightbox CSS -->
+    <link rel="stylesheet" href="{{'assets/css/imagelightbox.min.css'}}">
+    <!-- Style CSS -->
+    <link rel="stylesheet" href="{{'assets/css/style.css'}}">
+    <!-- Responsive CSS -->
+    <link rel="stylesheet" href="{{'assets/css/responsive.css'}}">
     <!-- Scripts -->
     <script src="{{ asset('js/app.js') }}" defer></script>
 
@@ -21,7 +42,8 @@
 </head>
 <body>
     <div id="app">
-        <nav class="navbar navbar-expand-md navbar-light bg-white shadow-sm">
+        <x-main.navbarlogin></x-main.navbarlogin>
+        <!-- <nav class="navbar navbar-expand-md navbar-light bg-white shadow-sm">
             <div class="container">
                 <a class="navbar-brand" href="{{ url('/') }}">
                     {{ config('app.name', 'Laravel') }}
@@ -31,14 +53,14 @@
                 </button>
 
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                    <!-- Left Side Of Navbar -->
+                   
                     <ul class="navbar-nav mr-auto">
 
                     </ul>
 
                     <!-- Right Side Of Navbar -->
-                    <ul class="navbar-nav ml-auto">
-                        <!-- Authentication Links -->
+                    <!-- <ul class="navbar-nav ml-auto">
+                       
                         @guest
                             <li class="nav-item">
                                 <a class="nav-link" href="{{ route('login') }}">{{ __('Login') }}</a>
@@ -66,11 +88,11 @@
                                     </form>
                                 </div>
                             </li>
-                        @endguest
+                        @endguest 
                     </ul>
                 </div>
             </div>
-        </nav>
+        </nav> -->
 
         <main class="py-4">
             @yield('content')

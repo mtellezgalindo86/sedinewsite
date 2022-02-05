@@ -23,5 +23,8 @@
         "serverless-lift": "^1.11.0",
         "vue": "^2.5.17",
         "vue-template-compiler": "^2.6.10"
+    },
+    "dependencies": {
+        "tailwindcss": "^3.0.18"
     }
 }

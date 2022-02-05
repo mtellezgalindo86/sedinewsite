@@ -3,13 +3,13 @@
 /** @var \Illuminate\Database\Eloquent\Factory $factory */
 
 use App\Category;
-use App\Model;
+use App\Post;
 use App\User;
 use Faker\Generator as Faker;
 use Illuminate\Support\Str;
 
-$factory->define(Model::class, function (Faker $faker) {
-    $name=  $faker->unique()->word(20);
+$factory->define(Post::class, function (Faker $faker) {
+    $name=  $faker->unique()->sentence();
     return [
         //
         'name' => $name,

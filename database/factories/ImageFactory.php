@@ -2,12 +2,12 @@
 
 /** @var \Illuminate\Database\Eloquent\Factory $factory */
 
-use App\Model;
+use App\Image;
 use Faker\Generator as Faker;
 
-$factory->define(Model::class, function (Faker $faker) {
+$factory->define(Image::class, function (Faker $faker) {
     return [
         //
-        'url' => $faker->image('public/assets/img/blog',)
+        'url' => 'posts/'. $faker->image('public/assets/img/blog',650, 500, null, true)
     ];
 });
